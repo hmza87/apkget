@@ -1,0 +1,12 @@
+{
+    "source":
+    [{
+
+    "apkpure" :[{
+        "homepage":"https://apkpure.com/",
+        "search": "https://apkpure.com/search?q={q}"
+
+    }]
+    
+}]
+    }
